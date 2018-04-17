@@ -1,0 +1,20 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "UI framework for dashboard application",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "sass --watch --compass --style=expanded --line-comments --line-numbers --sourcemap=auto scss:tmp/css",
+    "sass:compile": "sass --update --compass --style=compressed --force scss:tmp/css"
+  },
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "Tom Yu <yukangle@outlook.com> (http://www.kangleyu.me)",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0"
+  }
+}
