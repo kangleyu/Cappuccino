@@ -92,7 +92,7 @@ typings/
 .sass-cache
 
 # temporary folders or files
-build
+dist
 tmp
 package-lock.json
 
