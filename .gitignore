@@ -60,6 +60,8 @@ typings/
 # sass-cache
 .sass-cache
 
-# temporary files
+# temporary folders or files
+build
+tmp
 package-lock.json
 
