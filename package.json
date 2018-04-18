@@ -9,7 +9,14 @@
     "sass:compile": "sass --update --compass --style=compressed --force scss:tmp/css"
   },
   "keywords": [
-    "cappuccino"
+    "cappuccino",
+    "css",
+    "scss",
+    "sass",
+    "responsive",
+    "frontend",
+    "framework",
+    "web"
   ],
   "author": "Tom Yu <yukangle@outlook.com> (http://www.kangleyu.me)",
   "license": "ISC",
