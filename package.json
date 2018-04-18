@@ -1,5 +1,5 @@
 {
-  "name": "dashboard",
+  "name": "cappuccino",
   "version": "1.0.0",
   "description": "UI framework for dashboard application",
   "main": "gulpfile.js",
@@ -9,7 +9,7 @@
     "sass:compile": "sass --update --compass --style=compressed --force scss:tmp/css"
   },
   "keywords": [
-    "dashboard"
+    "cappuccino"
   ],
   "author": "Tom Yu <yukangle@outlook.com> (http://www.kangleyu.me)",
   "license": "ISC",

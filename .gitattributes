@@ -10,6 +10,6 @@
 # Don't diff or textually merge source maps
 *.map binary
 
-dashboard-theme.css linguist-vendored=false
-dashboard.css linguist-vendored=false
-dashboard.js linguist-vendored=false
+cappuccino-theme.css linguist-vendored=false
+cappuccino.css linguist-vendored=false
+cappuccino.js linguist-vendored=false

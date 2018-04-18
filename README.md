@@ -1,2 +1,2 @@
-# technplus-ui
-UI elements for technplus dashboard
+# cappuccino
+UI framework for dashboard web application
