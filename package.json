@@ -21,7 +21,6 @@
   "author": "Tom Yu <yukangle@outlook.com> (http://www.kangleyu.me)",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-compass": "^2.1.0"
+    "gulp": "^3.9.1"
   }
 }
